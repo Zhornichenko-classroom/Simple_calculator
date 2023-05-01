@@ -1,8 +1,16 @@
-#importing libraries
 
+# Квадратный корень (вычисление)
 
-#Zhornichenko Ilya's configuration
+def square_root(number): 
+    
+    #TODO: сделать реализацию метода
 
+    return None
 
-import numpy as np
-import math
+# Возведение в степень (вычисление)
+
+def power_number(number): 
+
+    #TODO: сделать реализацию метода
+
+    return None
